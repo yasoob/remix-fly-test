@@ -1,4 +1,4 @@
-app = "remix-fly-test-f82f"
+app = "productotter"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
